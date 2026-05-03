@@ -1,0 +1,10 @@
+# Один username на строку.
+# Пустые строки и строки с # игнорируются.
+# Поддерживаются форматы:
+# username
+# @username
+# https://t.me/username
+# http://t.me/username
+# t.me/username
+
+example_user
